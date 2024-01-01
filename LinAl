@@ -1,3 +1,1 @@
-[submodule "LinAl"]
-	path = LinAl
-	url = ../https://github.com/lukebr100/LinAL
+git submodule add https://github.com/username/sub_repo.git
